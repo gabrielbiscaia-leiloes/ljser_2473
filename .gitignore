@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários do Office
+~$*
+.~lock.*
+
+# Arquivos gerados
+*.docx
+*.xlsx
+
+# Configurações locais
+config*.py
